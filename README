@@ -1,3 +1,15 @@
 Hello World
 nx
 2015 updating
+*canALL_V2 boards connected on CAN-BUS network
+*Software on 
+:Atollic TrueSTUDIO®/STM32 Lite, Built on Eclipse.
+:Version: 2.0.1 Lite
+:Build id: 20110128-1032
+*Send to CAN only when an input is changed
+*All Receiving boards transmit to UART
+:CAN-BUS can be monitored on PC Terminal Emulator
+*On progress:
+:'''Use board addressing to activate outputs from other board inputs'''
+:// TODO: In COMMON+ mode: if Identifier matches  CAN Rx --> OUT1...8
+
