@@ -14,7 +14,7 @@
 - [ ] 5. Use board addressing to activate outputs from other board inputs
 - [ ] 6. In COMMON+ mode, if Identifier matches  CAN Rx --> OUT1...8
 - [ ] 7. Create Setup Block-Diagram
-- 
+- [ ] 8. Update the source code and attempt to compile with mbed Keil-Studio
 
 
 
