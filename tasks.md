@@ -18,6 +18,7 @@
 - [ ] 9. Add Board Block diagram
 - [ ] 10. Create a slide describing the board connectivity
 - [ ] 11. Review and document the light-weight printf() function used
+- [ ] 12. review and document FSM framework 
 
 
 
