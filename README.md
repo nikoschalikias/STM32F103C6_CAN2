@@ -87,12 +87,16 @@ width = 400
 
 ## Teraterm responce
 
+----
+One terminal line displays a CAN transaction
 <p align="center">
 <img
 src="img/10.PNG"
-width = 900
+width = 600
 />
 </p> 
+
+----
 
 
 
