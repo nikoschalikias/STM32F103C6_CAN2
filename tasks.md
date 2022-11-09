@@ -22,7 +22,7 @@
 - [ ] 13. Review and document Atollic studio status for 2022
 - [ ] 14. Find the local CANALL board project directory
 - [x] 15. Initiate git to CANALL board
-- [ ] 16. Create remote GitHub CANALL board repo
+- [x] 16. Create remote GitHub CANALL board repo
 - [ ] 17. Get new Photos from the legacy CANALL setup
 - [ ] 18. Test operation of the legacy CANALL setup
 - [ ] 19. Create a movie for the CANALL test
