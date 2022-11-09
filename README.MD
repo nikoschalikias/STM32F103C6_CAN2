@@ -123,10 +123,22 @@ connects:
 * ST-LINK to board
 * UART to RS232 level translator board and then to PC serial port
 
-
+----
+Custom ST-Link and UART adapter connected to ST-LINK
 <p align="center">
 <img
 src="img/08.PNG"
 width = 600
 />
 </p> 
+
+----
+Custom ST-Link and UART adapter detail
+<p align="center">
+<img
+src="img/07.PNG"
+width = 600
+/>
+</p> 
+
+----
