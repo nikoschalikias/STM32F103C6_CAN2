@@ -82,12 +82,16 @@ width = 400
 
 ## Teraterm Terminal Setup
 
+----
+Adjust line width to 165 chars, to contail a single transaction message
 <p align="center">
 <img
 src="img/04.PNG"
 width = 400
 />
 </p> 
+
+----
 
 ## Teraterm responce
 
