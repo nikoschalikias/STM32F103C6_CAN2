@@ -34,10 +34,7 @@ Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boar
    *  CAN-BUS can be monitored on PC Terminal Emulator  
 
 
-**On progress:**
 
-   *  Use board addressing to activate outputs from other board inputs
-   *  *todo:* In COMMON+ mode, if Identifier matches  CAN Rx --> OUT1...8
 
 ## Board
 <p align="center">
@@ -61,7 +58,7 @@ width = 900
 ## Atolic IDE
 
 ----
-Atoliic IDE was free when this project was created 
+Atoliic IDE was free when this project was 
 <p align="center">
 <img
 src="img/01.PNG"
