@@ -8,7 +8,7 @@
 * [tasks](tasks.md)
 
 # STM32F103C6_CAN2
-Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boards 
+Firmware to test the CAN-BUS operation with [CANALL_V2](https://github.com/prjVassler/CANALL) STM32F103C8 based boards 
 
 
 ## Project overview
