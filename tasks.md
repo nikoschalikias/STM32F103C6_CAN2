@@ -17,6 +17,7 @@
 - [ ] 8. Update the source code and attempt to compile with mbed Keil-Studio
 - [ ] 9. Add Board Block diagram
 - [ ] 10. Create a slide describing the board connectivity
+- [ ] 11. Review and document the light-weight printf() function used
 
 
 
