@@ -39,10 +39,11 @@ Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boar
    *  Use board addressing to activate outputs from other board inputs
    *  *todo:* In COMMON+ mode, if Identifier matches  CAN Rx --> OUT1...8
 
-## Block Diagram
+## Setup
 <p align="center">
 <img
-src="img/xx.PNG"
+src="img/02
+.PNG"
 width = 900
 />
 </p> 
