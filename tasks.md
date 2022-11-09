@@ -20,6 +20,7 @@
 - [ ] 11. Review and document the light-weight printf() function used
 - [ ] 12. Review and document FSM framework 
 - [ ] 13. Review and document Atollic studio status for 2022
+- [ ] 14. Find the local CANALL board project directory
 
 
 
