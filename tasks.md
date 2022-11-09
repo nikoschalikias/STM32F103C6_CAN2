@@ -10,4 +10,8 @@
 - [x] 1. Update README.md template
 - [x] 2. Add images
 - [x] 3. Add images descriptions
-- [x] 4. 
+- [x] 4. gloss readme
+
+
+
+
