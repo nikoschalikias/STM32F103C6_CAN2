@@ -69,12 +69,16 @@ width = 900
 
 ## Teraterm  Serial Port Setup
 
+----
+Baud 115200, 8bit, No Parity, 1 Stop bit
 <p align="center">
 <img
 src="img/03.PNG"
 width = 400
 />
 </p> 
+
+----
 
 ## Teraterm Terminal Setup
 
