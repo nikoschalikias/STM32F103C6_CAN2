@@ -26,6 +26,7 @@
 - [ ] 17. Get new Photos from the legacy CANALL setup
 - [ ] 18. Test operation of the legacy CANALL setup
 - [ ] 19. Create a movie for the CANALL test
+- [ ] 20. Create Roadmap for nBlocksStudio Node(s)
 
 
 
