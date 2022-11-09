@@ -11,6 +11,8 @@
 - [x] 2. Add images
 - [x] 3. Add images descriptions
 - [x] 4. gloss readme
+- [ ] 5. Use board addressing to activate outputs from other board inputs
+- 
 
 
 
