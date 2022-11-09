@@ -1,11 +1,15 @@
 
+
 # STM32F103C6_CAN2
-Testing CAN-BUS operation with [CANALL_V2]() boards  
+Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boards 
+
+
+
 
 **Targeting:**
 
 *  Free Tool chain
-*  Use no libraries
+*  Use no HAL libraries
 *  Initialise everything directly to register level
 *  Traffic to CAN-BUS only when event happens
 *  No HOST, only nodes 
@@ -28,4 +32,19 @@ Testing CAN-BUS operation with [CANALL_V2]() boards
    *  Use board addressing to activate outputs from other board inputs
    *  *todo:* In COMMON+ mode, if Identifier matches  CAN Rx --> OUT1...8
 
-Author: Nikos Chalikias, Created April 2011  
+## Block Diagram
+<p align="center">
+<img
+src="img/xx.PNG"
+width = 900
+/>
+</p> 
+
+
+## Board
+<p align="center">
+<img
+src="img/09.PNG"
+width = 900
+/>
+</p> 
