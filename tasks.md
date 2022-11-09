@@ -8,3 +8,4 @@
 # tasks
 
 - [x] 1. Update README.md template
+- [x] 2. Add images
