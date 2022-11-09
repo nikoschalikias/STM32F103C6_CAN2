@@ -13,7 +13,7 @@ Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boar
 
 ## Project overview
 
-###  project-targets
+###  Project-targets
 
 *  Free Tool chain
 *  Use no HAL libraries
