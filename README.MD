@@ -41,7 +41,7 @@ width = 900
 </p> 
 
 
-## Board
+## Board 
 <p align="center">
 <img
 src="img/09.PNG"
