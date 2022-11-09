@@ -93,3 +93,21 @@ src="img/10.PNG"
 width = 900
 />
 </p> 
+
+## CAN and UART signals
+
+----
+At any input change:
+* change is transmitted to CAN
+* Overall STATUS of the board is transmitted to UART
+Osilloscope:
+* Blue Channel is CAN-BUS
+* Purple Channel is UART-TX
+
+<p align="center">
+<img
+src="img/06.PNG"
+width = 600
+/>
+</p> 
+----
