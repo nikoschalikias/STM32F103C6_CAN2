@@ -75,3 +75,12 @@ src="img/03.PNG"
 width = 400
 />
 </p> 
+
+## Teraterm Terminal Setup
+
+<p align="center">
+<img
+src="img/04.PNG"
+width = 400
+/>
+</p> 
