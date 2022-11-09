@@ -66,3 +66,12 @@ src="img/01.PNG"
 width = 900
 />
 </p> 
+
+## Teraterm  Serial Port Setup
+
+<p align="center">
+<img
+src="img/03.PNG"
+width = 400
+/>
+</p> 
