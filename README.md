@@ -58,7 +58,7 @@ width = 900
 ## Atolic IDE
 
 ----
-Atoliic IDE was free when this project was 
+Atoliic IDE was free when this project was created
 <p align="center">
 <img
 src="img/01.PNG"
