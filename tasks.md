@@ -23,7 +23,8 @@
 - [ ] 14. Find the local CANALL board project directory
 - [ ] 15. Initiate git to CANALL
 - [ ] 16. Create remote GitHub CANALL board repo
-- [ ] 17. Get new Photos from the CANALL setup
+- [ ] 17. Get new Photos from the legacy CANALL setup
+- [ ] 18. Test operation of the legacy CANALL setup
 
 
 
