@@ -60,12 +60,16 @@ width = 900
 
 ## Atolic IDE
 
+----
+Atoliic IDE was free when this project was created 
 <p align="center">
 <img
 src="img/01.PNG"
 width = 900
 />
 </p> 
+
+----
 
 ## Teraterm  Serial Port Setup
 
