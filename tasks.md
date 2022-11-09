@@ -22,6 +22,8 @@
 - [ ] 13. Review and document Atollic studio status for 2022
 - [ ] 14. Find the local CANALL board project directory
 - [ ] 15. Initiate git to CANALL
+- [ ] 16. Create remote GitHub CANALL board repo
+
 
 
 
