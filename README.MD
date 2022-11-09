@@ -1,5 +1,10 @@
 
 
+
+* [wiki](http://www.emboxit.net/mw/index.php?title=Project_STM32F103C6_CAN)
+* [wiki secure link](https://www.emboxit.net/mw/index.php?title=Project_STM32F103C6_CAN)
+* [tasks](tasks.md)
+
 # STM32F103C6_CAN2
 Firmware to test the CAN-BUS operation with [CANALL_V2]() STM32F103C8 based boards 
 
@@ -41,7 +46,7 @@ width = 900
 </p> 
 
 
-## Board 
+## Board
 <p align="center">
 <img
 src="img/09.PNG"
