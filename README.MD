@@ -84,3 +84,12 @@ src="img/04.PNG"
 width = 400
 />
 </p> 
+
+## Teraterm responce
+
+<p align="center">
+<img
+src="img/10.PNG"
+width = 900
+/>
+</p> 
