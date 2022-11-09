@@ -94,6 +94,8 @@ width = 900
 />
 </p> 
 
+
+
 ## CAN and UART signals
 
 ----
@@ -109,5 +111,22 @@ Osilloscope:
 src="img/06.PNG"
 width = 600
 />
-</p> 
+</p>
+
 ----
+
+
+## Custom ST-Link and UART adapter
+
+connects:
+
+* ST-LINK to board
+* UART to RS232 level translator board and then to PC serial port
+
+
+<p align="center">
+<img
+src="img/08.PNG"
+width = 600
+/>
+</p> 
