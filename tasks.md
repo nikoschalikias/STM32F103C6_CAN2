@@ -27,6 +27,7 @@
 - [ ] 18. Test operation of the legacy CANALL setup
 - [ ] 19. Create a movie for the CANALL test
 - [ ] 20. Create Roadmap for nBlocksStudio Node(s)
+- [ ] 21. Test mbed code starting from https://os.mbed.com/questions/76094/how-to-use-STM32F103RB-CAN/
 
 
 
