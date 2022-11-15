@@ -15,7 +15,8 @@
 - [ ] 6. In COMMON+ mode, if Identifier matches  CAN Rx --> OUT1...8
 - [ ] 7. Create Setup Block-Diagram
 - [ ] 8. Update the source code and attempt to compile with mbed Keil-Studio
-- [ ] 9. Add Board Block diagram
+- [x] 9. Add Board Block diagram
+    - Schematic 1st page
 - [ ] 10. Create a slide describing the board connectivity
 - [ ] 11. Review and document the light-weight printf() function used
 - [ ] 12. Review and document FSM framework 
